@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "presentation-design-enhancer": {
+      "source": "onewave-ai/claude-skills",
+      "sourceType": "github",
+      "computedHash": "68dd5531f62c85cb57a683e0cd940abbc683073d56087d41268ce743038da53b"
+    }
+  }
+}
