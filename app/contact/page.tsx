@@ -12,18 +12,18 @@ export const metadata: Metadata = {
 const contacts = [
   {
     label: "Email",
-    href: "mailto:hello@efren.studio",
-    value: "hello@efren.studio",
+    href: "mailto:emefrenmendo@gmail.com",
+    value: "emefrenmendo@gmail.com",
   },
   {
     label: "GitHub",
-    href: "https://github.com/efren",
-    value: "github.com/efren",
+    href: "https://github.com/efrenrobotics",
+    value: "github.com/efrenrobotics",
   },
   {
     label: "LinkedIn",
-    href: "https://linkedin.com/in/efren",
-    value: "linkedin.com/in/efren",
+    href: "https://www.linkedin.com/in/emefren/",
+    value: "linkedin.com/in/emefren",
   },
 ];
 

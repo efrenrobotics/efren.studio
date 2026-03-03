@@ -13,49 +13,57 @@ export const metadata: Metadata = {
 
 const experience = [
   {
-    date: "2024 — Present",
+    date: "2025 — Present",
     title: "Software Engineer",
-    subtitle: "Acme Corp",
+    subtitle: "Visa — VAS Innovations, Agentic Development",
     description:
-      "Building and maintaining product interfaces with React and TypeScript. Contributing to the design system and improving developer experience across the frontend platform.",
-  },
-  {
-    date: "2023 — 2024",
-    title: "Frontend Developer",
-    subtitle: "Startup Studio",
-    description:
-      "Developed user-facing features for early-stage products. Collaborated closely with designers to translate Figma mockups into responsive, accessible interfaces.",
+      "Creating a platform for Technical Documentation at Visa. Building agentic development tooling and AI-powered workflows within Visa's value-added services platform.",
   },
   {
     date: "Summer 2023",
-    title: "Software Engineering Intern",
-    subtitle: "Tech Company",
+    title: "Software Engineer Intern",
+    subtitle: "Google — Android Auto, Car App Library",
     description:
-      "Built internal tooling and dashboards. Shipped a component library that reduced UI development time by 30%.",
+      "Contributed to the Android Auto Car App Library, improving developer APIs for in-car applications.",
+  },
+  {
+    date: "Summer 2022",
+    title: "Software Engineer Intern",
+    subtitle: "Salesforce — Mulesoft, Robotic Process Automation",
+    description: "Worked on a AI-native recipe generator",
+  },
+  {
+    date: "Fall 2022 — Fall 2024",
+    title: "Research Assistant",
+    subtitle: "Texas Robotics — Human Robot Interaction & Social Navigation",
+    description:
+      "Conducted research on human-robot interaction and social navigation at the University of Texas at Austin.",
   },
 ];
 
 const education = [
   {
-    date: "2019 — 2023",
+    date: "2021 — 2025",
     title: "B.S. Computer Science",
-    subtitle: "University",
+    subtitle: "The University of Texas at Austin",
     description:
-      "Focused on software engineering, human-computer interaction, and web technologies.",
+      "Focused on software engineering, human-robot interaction, and web technologies.",
   },
 ];
 
 const skills = [
   "TypeScript",
   "React",
+  "Astro",
+  "Kotlin",
   "Next.js",
   "Tailwind CSS",
   "Node.js",
   "PostgreSQL",
   "Git",
-  "Figma",
   "Motion Design",
   "Design Systems",
+  "Claude Code",
 ];
 
 export default function Resume() {

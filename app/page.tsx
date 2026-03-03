@@ -29,9 +29,10 @@ export default function Home() {
                 feels.
               </p>
               <p className="mt-4 text-text-secondary leading-relaxed">
-                Currently focused on frontend engineering, design systems, and
-                the craft of turning complex ideas into clean, intuitive
-                interfaces.
+                Currently focused on agentic development, frontend engineering,
+                design systems, and the craft of turning complex ideas into
+                clean, intuitive interfaces. Deeply interested in AI-native
+                applications and Agentic Workflows.
               </p>
 
               <div className="mt-12">
@@ -44,7 +45,7 @@ export default function Home() {
                       Building
                     </span>
                     <span className="text-text-secondary">
-                      Design systems and product interfaces
+                      Customer Facing Applications and Agentic Workflows
                     </span>
                   </li>
                   <li className="flex gap-3">
@@ -52,7 +53,7 @@ export default function Home() {
                       Reading
                     </span>
                     <span className="text-text-secondary">
-                      Refactoring UI by Adam Wathan & Steve Schoger
+                      The Gambler - Fyodor Dostoevsky
                     </span>
                   </li>
                   <li className="flex gap-3">
@@ -60,7 +61,7 @@ export default function Home() {
                       Exploring
                     </span>
                     <span className="text-text-secondary">
-                      Motion design and creative coding
+                      Agent Teams and Skills
                     </span>
                   </li>
                 </ul>

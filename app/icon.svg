@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Dark surface background matching site theme -->
+  <rect width="32" height="32" rx="6" fill="#0a0a0a"/>
+  <!--
+    Geometric "E" — drawn as a single filled path.
+    Hard 90° angles give it a circuit-trace aesthetic,
+    referencing robotics + engineering.
+    Accent orange (#cb6015) matches the site's design system.
+  -->
+  <path d="M9,7 H23 V10 H12 V14.5 H20 V17.5 H12 V22 H23 V25 H9 Z" fill="#cb6015"/>
+</svg>

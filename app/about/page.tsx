@@ -37,9 +37,9 @@ export default function About() {
                 to get it right.
               </p>
               <p className="mt-4 text-text-secondary leading-relaxed">
-                Outside of code, I&apos;m usually exploring design references,
-                reading about typography, or thinking about what makes certain
-                products feel inevitable while others feel forced.
+                Outside of code, I&apos;m usually exploring agentic development,
+                reading about design engineering, or thinking about what makes
+                certain products feel inevitable while others feel forced.
               </p>
 
               <SectionDivider />
