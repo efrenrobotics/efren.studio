@@ -20,14 +20,14 @@ const experience = [
       "Creating a platform for Technical Documentation at Visa. Building agentic development tooling and AI-powered workflows within Visa's value-added services platform.",
   },
   {
-    date: "Summer 2023",
+    date: "Summer 2024",
     title: "Software Engineer Intern",
     subtitle: "Google — Android Auto, Car App Library",
     description:
       "Contributed to the Android Auto Car App Library, improving developer APIs for in-car applications.",
   },
   {
-    date: "Summer 2022",
+    date: "Summer 2023",
     title: "Software Engineer Intern",
     subtitle: "Salesforce — Mulesoft, Robotic Process Automation",
     description: "Worked on a AI-native recipe generator",

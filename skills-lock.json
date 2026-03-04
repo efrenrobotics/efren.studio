@@ -5,6 +5,11 @@
       "source": "onewave-ai/claude-skills",
       "sourceType": "github",
       "computedHash": "68dd5531f62c85cb57a683e0cd940abbc683073d56087d41268ce743038da53b"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "a6a44d5498f7e8f68289902f3dedfc6f38ae0cee1e96527c80724cf27f727c2a"
     }
   }
 }
