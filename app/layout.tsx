@@ -29,10 +29,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} bg-surface text-text-primary antialiased`}
-      >
+    <html
+      lang="en"
+      className={`${geistSans.variable} ${geistMono.variable}`}
+    >
+      <head>
+        <link
+          rel="preload"
+          href="/fonts/GeistSerifVF.woff2"
+          as="font"
+          type="font/woff2"
+          crossOrigin="anonymous"
+        />
+      </head>
+      <body className="bg-surface text-text-primary antialiased">
         <div className="flex min-h-screen flex-col">
           <Navigation />
           <main className="mx-auto w-full max-w-[1200px] flex-1 px-6 md:px-8">

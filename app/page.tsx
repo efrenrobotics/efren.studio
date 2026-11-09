@@ -8,8 +8,16 @@ export default function Home() {
         <SplitLayout
           left={
             <div>
-              <h1 className="text-2xl font-semibold tracking-tight">
-                Efren Mendoza Enriquez
+              <h1 className="text-text-primary">
+                <span
+                  aria-hidden="true"
+                  className="font-display block whitespace-nowrap text-[5.25rem] leading-[0.8]"
+                >
+                  E M E
+                </span>
+                <span className="mt-5 block font-sans text-base font-medium leading-snug tracking-tight">
+                  Efren Mendoza Enriquez
+                </span>
               </h1>
               <p className="mt-1 font-mono text-sm text-text-secondary">
                 Software Engineer

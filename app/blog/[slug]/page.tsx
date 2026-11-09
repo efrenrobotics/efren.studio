@@ -44,10 +44,10 @@ export default async function BlogPost({
       <FadeIn>
         <article className="mx-auto max-w-[680px]">
           <header>
-            <p className="font-mono text-sm text-text-tertiary">{post.date}</p>
-            <h1 className="mt-2 text-2xl font-semibold tracking-tight">
+            <h1 className="font-display text-4xl leading-[1.05] text-balance text-text-primary sm:text-5xl">
               {post.title}
             </h1>
+            <p className="mt-4 font-mono text-sm text-text-tertiary">{post.date}</p>
             <p className="mt-2 text-text-secondary">{post.summary}</p>
           </header>
 
